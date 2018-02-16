@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47972e06-fa6e-4a74-a94e-ca9098bbe767" name="Default" comment="" />
+    <list default="true" id="47972e06-fa6e-4a74-a94e-ca9098bbe767" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bike-share" afterPath="$PROJECT_DIR$/bike-share" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,24 +18,229 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bike-share/src/index.html">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bike-share/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bike-share/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-227">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="firebase-service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bike-share/src/services/firebase-service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search-result.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bike-share/src/pages/search-result/search-result.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="memoize.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bike-share/functions/src/memoize.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search-result.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bike-share/src/pages/search-result/search-result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="62" column="42" lean-forward="false" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payments.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bike-share/src/pages/payments/payments.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payments.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bike-share/src/pages/payments/payments.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchParamsUpdated.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/searchParamsUpdated.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="99" column="12" lean-forward="false" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+              <folding>
+                <element signature="e#93#147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchParamsUpdated.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/googleMaps/searchParamsUpdated.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1704">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1518700924370" expanded="true" signature="2784:8409" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="2838:8405" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="3070:8401" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="3084:8220" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="5015:6649" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="5247:6218" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="5301:6214" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="5413:6194" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="5457:6172" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="5494:5993" ph="..." />
+                <marker date="1518700924370" expanded="true" signature="5690:5892" ph="{&quot;origin&quot;: origin_1...}" />
+                <marker date="1518700924370" expanded="true" signature="5936:5945" ph="/*...*/" />
+                <marker date="1518700924370" expanded="true" signature="6029:6146" ph="..." />
+                <marker date="1518700924370" expanded="true" signature="6134:6144" ph="/*...*/" />
+                <marker date="1518700924370" expanded="true" signature="6237:6635" ph="//..." />
+                <marker date="1518700924370" expanded="true" signature="6851:8210" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="6876:8194" ph="[...]" />
+                <marker date="1518700924370" expanded="true" signature="6879:6889" ph="/*...*/" />
+                <marker date="1518700924370" expanded="true" signature="7005:8193" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="7059:8189" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="7168:8165" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="7216:8139" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="7257:7834" ph="..." />
+                <marker date="1518700924370" expanded="true" signature="7390:7642" ph="{&quot;mode&quot;: 'bicycling'...}" />
+                <marker date="1518700924370" expanded="true" signature="7776:7785" ph="/*...*/" />
+                <marker date="1518700924370" expanded="true" signature="7874:8109" ph="..." />
+                <marker date="1518700924370" expanded="true" signature="8078:8088" ph="/*...*/" />
+                <marker date="1518700924370" expanded="true" signature="8195:8196" ph="//..." />
+                <marker date="1518700924370" expanded="true" signature="8243:8364" ph="{...}" />
+                <marker date="1518700924370" expanded="true" signature="8318:8328" ph="/*...*/" />
+                <marker date="1518700924370" expanded="true" signature="8383:8393" ph="/*...*/" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BaseInput</find>
+      <find>setFocus</find>
+      <find>db</find>
+      <find>stations</find>
+      <find>console</find>
+      <find>findNearestStations</find>
+      <find>location</find>
+      <find>stationsPlusId</find>
+      <find>result</find>
+      <find>newData</find>
+      <find>response</find>
+      <find>data</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/bike-share/functions/saveForLater.ts" />
+        <option value="$PROJECT_DIR$/bike-share/.firebaserc" />
+        <option value="$PROJECT_DIR$/bike-share/package.json" />
+        <option value="$PROJECT_DIR$/bike-share/functions/google-maps/findNearestStations.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/testNextDoor.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/google-maps/findNearestStations.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMapsClient.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/lib/findNearestStations.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/findNearestStations.js" />
+        <option value="$PROJECT_DIR$/bike-share/src/services/autocomplete-service.ts" />
+        <option value="$PROJECT_DIR$/bike-share/src/pages/address-modal/address-modal.html" />
+        <option value="$PROJECT_DIR$/bike-share/src/pages/map/map.scss" />
+        <option value="$PROJECT_DIR$/bike-share/src/pages/map/map.html" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/serverMapGeoPointToLatLng.js" />
+        <option value="$PROJECT_DIR$/bike-share/src/pipes/distance/distance.ts" />
+        <option value="$PROJECT_DIR$/bike-share/src/pipes/time/time.ts" />
+        <option value="$PROJECT_DIR$/bike-share/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/bike-share/src/pages/search-result/search-result.ts" />
+        <option value="$PROJECT_DIR$/bike-share/src/pages/search-result/fakeResult.ts" />
+        <option value="$PROJECT_DIR$/bike-share/src/components/google-map/google-map.ts" />
+        <option value="$PROJECT_DIR$/bike-share/src/pages/search-result/search-result.scss" />
+        <option value="$PROJECT_DIR$/bike-share/src/pages/search-result/search-result.html" />
+        <option value="$PROJECT_DIR$/bike-share/src/pages/map/map.ts" />
+        <option value="$PROJECT_DIR$/bike-share/src/services/firebase-service.ts" />
+        <option value="$PROJECT_DIR$/bike-share/firebase.json" />
+        <option value="$PROJECT_DIR$/bike-share/functions/lib/index.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/lib/testAsyncHttp.js" />
+        <option value="$PROJECT_DIR$/bike-share/src/pages/address-modal/address-modal.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/getWalkingDirections.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/index.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/testAsyncHttp.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/memoize.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/memoize.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/tsconfig.json" />
+        <option value="$PROJECT_DIR$/bike-share/functions/lib/googleMaps/findNearestStations.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/getDirections.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/package.json" />
+        <option value="$PROJECT_DIR$/bike-share/functions/lib/googleMaps/getDirections.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/findNearestStations.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/findTripDirections.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/findTripDirections.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/index.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/lib/memoize.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/shared/LatLng.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/shared/DirectionsQuery.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/shared/DistanceMatrixQuery.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/findNearestStations.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/memoize.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/getDirections.ts" />
+        <option value="$PROJECT_DIR$/bike-share/functions/src/googleMaps/searchParamsUpdated.ts" />
         <option value="$PROJECT_DIR$/bike-share/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/bike-share/src/app/app.html" />
-        <option value="$PROJECT_DIR$/bike-share/src/index.html" />
       </list>
     </option>
   </component>
@@ -49,11 +258,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/bike-share/functions/node_modules" />
     <handled-path value="$PROJECT_DIR$/bike-share/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="63" />
+    <option name="y" value="49" />
     <option name="width" value="1216" />
     <option name="height" value="737" />
   </component>
@@ -73,7 +282,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,12 +305,49 @@
               <item name="bike-ionic" type="462c0819:PsiDirectoryNode" />
               <item name="bike-share" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bike-ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bike-ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="bike-share" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bike-ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bike-ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="bike-share" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="payments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bike-ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bike-ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="bike-share" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="search-result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bike-ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bike-ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="bike-share" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bike-ionic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bike-ionic" type="462c0819:PsiDirectoryNode" />
+              <item name="bike-share" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,6 +355,16 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bike-share/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bike-share/functions/src/googleMaps" />
+      <recent name="$PROJECT_DIR$/bike-share/functions/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,47 +393,105 @@
       <updated>1518232641160</updated>
       <workItem from="1518232643099" duration="1837000" />
       <workItem from="1518238008557" duration="421000" />
-      <workItem from="1518238830885" duration="81000" />
+      <workItem from="1518238830885" duration="6824000" />
+      <workItem from="1518246173427" duration="14836000" />
+      <workItem from="1518262308227" duration="12963000" />
+      <workItem from="1518314232424" duration="24943000" />
+      <workItem from="1518421327271" duration="2822000" />
+      <workItem from="1518431406603" duration="37890000" />
+      <workItem from="1518597063578" duration="41843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2339000" />
+    <option name="totallyTimeSpent" value="144379000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="63" width="1216" height="737" extended-state="0" />
+    <frame x="0" y="49" width="1216" height="737" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24937238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36292836" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bike-share/shared/LatLng.js" />
+        <option value="$PROJECT_DIR$/bike-share/shared/mapGeoPointToLatLng.js" />
+        <option value="$PROJECT_DIR$/bike-share/shared/mapLatLngToGeoPoint.js" />
+        <option value="$PROJECT_DIR$/bike-share/functions/saveForLater.js" />
+        <option value="$PROJECT_DIR$/../axios-test/axios-test.js" />
+        <option value="$PROJECT_DIR$/../axios-test/axios-test.js.map" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/getDirections.ts</url>
+          <line>17</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bike-share/src/index.html">
+    <entry file="file://$PROJECT_DIR$/bike-share/src/pipes/pipes.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#58#0" expanded="false" />
+            <element signature="e#200#240#0" expanded="false" />
+            <element signature="e#581#650#0" expanded="false" />
+            <element signature="e#801#859#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/components/google-map/google-map.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -186,60 +499,441 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bike-share/src/index.html">
+    <entry file="file://$PROJECT_DIR$/bike-share/src/components/google-map/google-map.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="58" column="20" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#79#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/search-result/search-result.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/ionic.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/www/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/.firebaserc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/testNextDoor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/findNearestStations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/testAsyncHttp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/address-modal/address-modal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="55" column="11" lean-forward="false" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#88#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/map/map.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="73" column="58" lean-forward="false" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-580">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/search-result/fakeResult.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="28" column="49" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/getDirections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/testNextDoor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/memoize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/firebase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/googleMaps/googleMapsClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/memoize.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/googleMaps/memoize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/getDirections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/testAsyncHttp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="30" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <marker date="1518697239108" expanded="true" signature="0:805" ph="{&quot;name&quot;: &quot;functions&quot;...}" />
+            <marker date="1518697239108" expanded="true" signature="501:669" ph="{&quot;@google/maps&quot;: &quot;^0.4.5&quot;...}" />
+            <marker date="1518697239108" expanded="true" signature="692:784" ph="{&quot;@types/es6-promise&quot;: &quot;^3.3.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/googleMaps/getDirections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="72" lean-forward="false" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/findNearestStations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/googleMaps/findNearestStations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="e#291#350#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/memoize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/shared/LatLng.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/shared/DirectionsQuery.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/shared/DistanceMatrixQuery.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/findTripDirections.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/home/home.html">
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/serverMapGeoPointToLatLng.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/findNearestStations.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+          <folding>
+            <element signature="e#90#144#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/getDirections.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/googleMapsClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/lib/googleMaps/searchParamsUpdated.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1704">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518700924370" expanded="true" signature="2784:8409" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="2838:8405" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="3070:8401" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="3084:8220" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="5015:6649" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="5247:6218" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="5301:6214" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="5413:6194" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="5457:6172" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="5494:5993" ph="..." />
+            <marker date="1518700924370" expanded="true" signature="5690:5892" ph="{&quot;origin&quot;: origin_1...}" />
+            <marker date="1518700924370" expanded="true" signature="5936:5945" ph="/*...*/" />
+            <marker date="1518700924370" expanded="true" signature="6029:6146" ph="..." />
+            <marker date="1518700924370" expanded="true" signature="6134:6144" ph="/*...*/" />
+            <marker date="1518700924370" expanded="true" signature="6237:6635" ph="//..." />
+            <marker date="1518700924370" expanded="true" signature="6851:8210" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="6876:8194" ph="[...]" />
+            <marker date="1518700924370" expanded="true" signature="6879:6889" ph="/*...*/" />
+            <marker date="1518700924370" expanded="true" signature="7005:8193" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="7059:8189" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="7168:8165" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="7216:8139" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="7257:7834" ph="..." />
+            <marker date="1518700924370" expanded="true" signature="7390:7642" ph="{&quot;mode&quot;: 'bicycling'...}" />
+            <marker date="1518700924370" expanded="true" signature="7776:7785" ph="/*...*/" />
+            <marker date="1518700924370" expanded="true" signature="7874:8109" ph="..." />
+            <marker date="1518700924370" expanded="true" signature="8078:8088" ph="/*...*/" />
+            <marker date="1518700924370" expanded="true" signature="8195:8196" ph="//..." />
+            <marker date="1518700924370" expanded="true" signature="8243:8364" ph="{...}" />
+            <marker date="1518700924370" expanded="true" signature="8318:8328" ph="/*...*/" />
+            <marker date="1518700924370" expanded="true" signature="8383:8393" ph="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/googleMaps/searchParamsUpdated.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="99" column="12" lean-forward="false" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+          <folding>
+            <element signature="e#93#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/search-result/search-result.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/search-result/search-result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="42" lean-forward="false" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/payments/payments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/payments/payments.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/functions/src/memoize.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bike-share/src/services/firebase-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bike-share/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="270">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bike-share/src/app/app.html">
+    <entry file="file://$PROJECT_DIR$/bike-share/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bike-share/src/pages/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-227">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bike-share/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bike-share/src/app/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bike-share/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding />
         </state>
       </provider>
